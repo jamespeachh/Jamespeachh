@@ -1,8 +1,3 @@
-## Hello! 👋
-
-<div align="center">
-  Welcome to my secret lair of pet projects and half finished experiments.
-</div>
 <hr>
 <ul>
   <li>
