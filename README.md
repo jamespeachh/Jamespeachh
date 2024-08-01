@@ -1,3 +1,4 @@
+<!--
 <hr>
 <ul>
   <li>
@@ -8,9 +9,9 @@
   </li>
 </ul>
 <hr>  
+-->
 
-
-
+<!--
 ### Projects
 
 <ul>
@@ -27,8 +28,9 @@
     📺 Tamagotchi Reimagined
   </li>
 </ul>
+-->
 
-### Proficiencies
+<!--### Proficiencies-->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -42,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<!--
 ### Contact me!
 
 <div align="left">
@@ -51,3 +54,4 @@
 </div>
 
 ###
+-->
